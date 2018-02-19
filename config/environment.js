@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'monsters-frontend',
+    modulePrefix: 'ember-frontend-backend-rails-json-api',
     environment,
     rootURL: '/',
     locationType: 'auto',
